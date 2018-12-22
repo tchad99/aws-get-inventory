@@ -1,0 +1,4 @@
+com\amazonaws\lambda\demo\InventoryGetFunctionHandler.class
+com\legalzoom\model\Picture.class
+com\legalzoom\model\InventoryRequest.class
+com\legalzoom\model\Listing.class
